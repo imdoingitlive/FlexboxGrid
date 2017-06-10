@@ -71,3 +71,11 @@ img{
   color: #ccc;
   margin: 0;
 }
+
+#showcase .showcase-content{
+  background: #333;
+  color: #fff;
+  border-radius: 90px;
+  padding: 40px;
+  opacity: 0.9;
+}
