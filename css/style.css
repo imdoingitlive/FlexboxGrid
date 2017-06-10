@@ -149,6 +149,12 @@ img{
   border: 0;
 }
 
+/*footer*/
+#main-footer{
+  background: #56a79a;
+  color: #fff;
+}
+
 /*media queries*/
 @media(max-width: 800px){
   #showcase h1{
